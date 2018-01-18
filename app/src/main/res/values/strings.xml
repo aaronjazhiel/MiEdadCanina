@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi edad canina</string>
+    <string name="descripcion">Escribe tu edad y pulsa el boton para calcular tu edad canina:</string>
+    <string name="resultado">Si fueras perro, tu edad sería de:</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
